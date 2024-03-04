@@ -1,16 +1,12 @@
 ### Hi there 👋 I'm Hana.
 
-I'm a computer science student. I've got a soft spot for maps (spatial and hashed), clouds (vapour-based and virtual), languages (natural and computer), and trying to keep things simple (often failing). I try to learn everyday so the chatbots don't one day render me completely useless.  
+I'm a computer science student. I've got a soft spot for maps (spatial and hashed), clouds (water-based and virtual), languages (natural and computer), and trying to keep things simple (often failing). 
 
 - 🔭 I’m currently working on ...
     - My bachelor! 
 
 - 🌱 I’m currently learning ...
     - Kotlin, Android Studio, machine learning with Python 
-
-- ⚡ Fun fact:
-    - County Laois in Ireland is the only one of the 32 counties that does not border a county which does not border a county that borders the coast.
-    - Wait, if you mean a fun fact about me: well, I first started programming in engineering school, where they taught us to code C++ on gedit. On the first assignment, my friend and I spent 3 hours debugging a missing semicolon (if you know, you know). Somehow though it got me hooked, and here I am. 
 
 <!--
 **hgkald/hgkald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +20,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
+    - County Laois in Ireland is the only one of the 32 counties that does not border a county which does not border a county that borders the coast.
+    - Wait, if you mean a fun fact about me: well, I first started programming in engineering school, where they taught us to code C++ on gedit. On the first assignment, my friend and I spent 3 hours debugging a missing semicolon (if you know, you know). Somehow though it got me hooked, and here I am. 
+
+
 -->
