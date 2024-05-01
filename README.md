@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Hana
+
+I've got a soft spot for maps (spatial and hashed), clouds (water-based and virtual), languages (natural and computer), and trying to keep things simple. 
+
+🔭 I’m currently working on ...
+
+- An Android app!
+
+🌱 I’m currently learning ...
+
+- Kotlin + messing with React and Typescript 
 
 <!--
 **hgkald/hgkald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
