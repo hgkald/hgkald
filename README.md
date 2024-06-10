@@ -4,11 +4,7 @@ I've got a soft spot for maps (spatial and hashed), clouds (water-based and virt
 
 🔭 I’m currently working on ...
 
-- An Android app!
-
-🌱 I’m currently learning ...
-
-- Kotlin + messing with React and Typescript 
+- A map game on React + a backend for collecting stats 📈
 
 <!--
 **hgkald/hgkald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
